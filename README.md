@@ -13,11 +13,18 @@ Statistics student transitioning into data science.<br>Learning Python, SQL, and
 ![](https://streak-stats.demolab.com/?user=shafqat202&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shafqat202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shafqat202&limit=5&theme=default&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=onedark&no-frame=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shafqat202&theme=onedark&no-frame=false&margin-w=4" />
+</p>
+## 🔝 Top Contributed Repo
+<p align="left">
+<a href="https://github.com/shafqat202/Hellow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafqat202&repo=Hellow&theme=dark" />
+</a>
+</p>
 
 ---
 [![Profile views](https://komarev.com/ghpvc/?username=shafqat202&color=2ecc71)](https://github.com/antonkomarev/github-profile-views-counter)
