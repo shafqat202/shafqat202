@@ -19,6 +19,7 @@ Statistics student transitioning into data science.<br>Learning Python, SQL, and
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shafqat202&theme=onedark&no-frame=false&margin-w=4" />
 </p>
+
 ## 🔝 Top Contributed Repo
 <p align="left">
 <a href="https://github.com/shafqat202/Hellow">
