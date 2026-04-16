@@ -27,12 +27,7 @@ Focused on building practical skills for a career in analytics.
 
 ## 🔝 Top Contributed Repo
 <p align="left">
-<a href="https://github.com/shafqat202/Hellow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafqat202&repo=Hellow&theme=dark" />
+<a href="https://github.com/shafqat202/shafqat202">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafqat202&repo=shafqat202&theme=dark" />
 </a>
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shafqat202&color=2ecc71" alt="Profile views" />
 </p>
