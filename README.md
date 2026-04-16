@@ -20,10 +20,6 @@ Focused on building practical skills for a career in analytics.
   <img src="https://streak-stats.demolab.com/?user=shafqat202&theme=dark" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shafqat202&theme=onedark&no-frame=false&margin-w=4" />
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=default&no-frame=false&no-bg=true&margin-w=4)
