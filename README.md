@@ -13,16 +13,16 @@ Focused on building practical skills for a career in analytics.
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&layout=compact&theme=dark)
+| Overall Stats | Most Used Languages |
+| :---: | :---: |
+| ![Shafqat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true) | ![Shafqat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&layout=compact&theme=dark) |
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shafqat202&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=shafqat202&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shafqat202&limit=5&theme=default&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=shafqat202&limit=5&theme=default&combine_all_yearly_contributions=true)
