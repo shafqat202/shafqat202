@@ -9,12 +9,12 @@ Focused on building practical skills for a career in analytics.
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shafqatahmed119433@gmail.com)
 
 # 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # 📊 GitHub Stats:
 | **Overall Stats** | **Most Used Languages** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&theme=dark&layout=compact) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&layout=compact&theme=dark) |
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shafqat202&theme=dark" />
