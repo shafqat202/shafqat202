@@ -11,18 +11,10 @@ Focused on building practical skills for a career in analytics.
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-# 📊 GitHub Stats:
-
-| Overall Stats | Most Used Languages |
-| :---: | :---: |
-| ![Shafqat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true) | ![Shafqat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&layout=compact&theme=dark) |
-
+## 📊 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shafqat202&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=shafqat202&limit=5&theme=default&combine_all_yearly_contributions=true)
