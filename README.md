@@ -12,14 +12,14 @@ Focused on building practical skills for a career in analytics.
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # 📊 GitHub Stats:
-| **Overall Stats** | **Most Used Languages** |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&layout=compact&theme=dark) |
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shafqat202&show_icons=true&theme=dark&count_private=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat202&layout=compact&theme=dark)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shafqat202&theme=dark" />
 </p>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shafqat202&theme=default&no-frame=false&no-bg=true&margin-w=4)
